@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BebDev!
+- 👀 I’m interested in GameDev and programming.
+- 🌱 I’m currently learning C# and unity.
+- 💞️ I’m looking to collaborate on discord - Beb#2816.
